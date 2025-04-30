@@ -193,6 +193,36 @@
         "#8",
         "#9",
         "#10"
+        ]
+    },
+    {
+      "name": "Benfica TV",
+      "srcs": [
+        "https://playmatch.live/player/PT/403",
+        "https://thedaddy.to/embed/stream-380.php",
+        "#3",
+        "#4",
+        "#5",
+        "#6",
+        "#7",
+        "#8",
+        "#9",
+        "#10"
+        ]
+    },
+    {
+      "name": "Canal 11",
+      "srcs": [
+        "https://playmatch.live/player/PT/2717",
+        "#2",
+        "#3",
+        "#4",
+        "#5",
+        "#6",
+        "#7",
+        "#8",
+        "#9",
+        "#10"
       ]
     }
   ],
